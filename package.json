@@ -1,0 +1,12 @@
+{
+	"name": "com.baize.sharp-toolset",
+	"displayName": "sharp-toolset",
+	"description": "sharp toolset",
+	"version": "1.0.1",
+	"unity": "2021.3",
+	"author": "baize",
+	"keywords": [
+		"com.baize.sharp-toolset",
+		"sharp-toolset"
+	]
+}
